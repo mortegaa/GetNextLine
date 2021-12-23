@@ -20,13 +20,8 @@ La función get_next_line devuelve 1 si ha leído correctamente una línea, 0 en
 La función ft_count_lines devuelve el número de líneas del texo que conforma el archivo.
 
 ## EXTRAS
-
 Se incluyen también un par de extras cada uno en una carpeta
-
-### Bonus
-
+* ### Bonus
 Incluye las mismas funciones y se comportan de la misma manera, pero éste te permite leer varios ficheros al mismo tiempo (Utiliza varios file descriptor a la vez).
-
-### Prueba
-
+* ### Prueba
 Son archivos .txt de prueba para probar el funcionamiento de las funciones junto con un main.c que se encarga de ello.
